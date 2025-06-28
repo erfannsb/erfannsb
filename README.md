@@ -13,7 +13,7 @@
 - 🌱 Learning everything about `Machine Learning`, `Rust`, and `Fullstack Development`
 - 🧩 I love building **fast**, **clean**, and **intelligent** systems
 - 💬 Ask me about `Python`, `JavaScript`, `Rust`, `Linux`, or **why your neural net is confused**
-- If you like to know more about me checkout my page: https://erfannsb.github.io/
+- 👨‍💻 If you like to know more about me checkout my page: https://erfannsb.github.io/
 - 📫 How to reach me: [@erfannsb](https://github.com/erfannsb) | `erfannsb@gmail.com`
 
 ---
